@@ -34,5 +34,20 @@ background-image: linear-gradient(to right top, #045504, #0e8532, #0bc433, #18af
 	width: 80%;border-radius: 15px;
 }
 
+#room_name{
+	cursor: pointer;
+	font-size: 20px;
+}
+
+#logout{
+	font-size: 20px; float: right;
+}
+
+#output
+{
+	padding: 10px; width:80%;background: rgba(255,255,255,0.8);border-radius: 15px;
+	color: black;
+}
+
 
 
